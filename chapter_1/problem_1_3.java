@@ -45,12 +45,8 @@ public class Problem_1_3 {
 				
 			}else{
 				continue;
-			}
-			
+			}	
 		}
-		
 		System.out.println(ans.toString());
-		
 	}
-
 }
